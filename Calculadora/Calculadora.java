@@ -27,7 +27,7 @@ public class Calculadora {
             switch (operacion) {
                 case 1 -> {
                     resultado = num1 + num2;
-                    System.out.println("Resultado: " + num1 + " + " + num2 + " = " + resultado)/*comwntario renobado 2 */;
+                    System.out.println("Resultado: " + num1 + " + " + num2 + " = " + resultado);
                 }
                 case 2 -> {
                     resultado = num1 - num2;
